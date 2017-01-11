@@ -11,7 +11,7 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "uniqCompNum": 28,
+    "uniqCompNum": 47,
     "favicon": "",
     "noImageResize": "",
     "google-analytics": ""
@@ -28,86 +28,10 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            }
-          },
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-0",
-          "_params": {
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showMeta": false,
-            "darkBackground": false
-          },
-          "title": "HVAD ER TFT?",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><br></p><p>TFT står for \"Thought Field Therapy\" eller på dansk Tankefeltterapi, som er et forholdsvist nyt terapeutisk system i Danmark, men allerede velkonsolideret i andre lande og i den psykoterapeutiske verden.&nbsp;</p><p>TFT tager udgangspunkt i det bedste fra de retninger, der findes indenfor meridianterapi. Det er en kombination af Vestens psykologiske samtaleterapi og Østens viden om kroppens energibaner.</p><p>Teorien er, at en af årsagerne til irrationelle følelser er, at vi ”lagrer” gamle traumatiske oplevelser og negative følelser i kroppen som en ubevidst refleks, der dukker op igen og igen, ligegyldigt hvor meget vi stritter i mod. Det er derfor nødvendigt at tænke i krop, tanke og følelse som en helhed, når man behandler med TFT.</p><p>Tankefeltet kan beskrives som det felt, eller den energi, der ligger gemt og som vedrører bestemte specifikke tanker, følelser, oplevelser og/eller ubehag. Man kan også sammenligne tankefeltet med en radio, der skal indstilles på en bestemt station for at spille musik. Når radioen skratter, er den ikke indstillet på den rigtige frekvens – der er ubalance i nervesystemet, der bl.a. kan vise sig som angst, stress, depression, fysisk ubehag og smerter.&nbsp;</p><p>TFT virker gennem stimulation af kroppens energibaner ved at banke/tappe på bestemte akupunkturpunkter på kroppen, samtidig med at man via samtale fastholder tankerne/ubehaget på problemet/ubehaget. Derved korrigeres en forstyrrelse i energisystemet, og ubehaget vil falde, hyppigst forsvinder det endog helt.</p><p>Denne form for terapi har vist sig utrolig effektiv til at afhjælpe mange former for følelsesmæssigt ubehag og flere former for fysisk ubehag. Faktisk er der en bedring for 80%, eller mere, for de behandlede klienter og for de fleste forsvinder symptomerne eller problemerne fuldstændig i løbet af ganske kort tid.</p><p>Yderligere kan du selv lære at anvende teknikken på et specifikt problem, således at du i fremtiden altid har et \"værktøj\" i hånden hvis du kommer under pres.</p><p>Tankefeltsterapi (TFT) blev udviklet i 80erne af Dr. Roger Callahan, - en amerikansk meget anset og erfaren klinisk psykolog, som er en af pionererne indenfor bl.a. hypnoseterapi og som gennem mange år indgående har forsket i kroppens meridianbaner og disses sammenhænge med følelserne. Efter et kursus i almen kinesiologi og meridianlære opstod ”Thought Field Therapi.”&nbsp;</p><p>EFT \"Emotional Freedom Technoque\" på dansk Emotionel Friheds Teknik blev udviklet af en af Callahans elever - Gary Craig. Denne videreudvikling kalder han selv en emotionel form for akupunktur, bortset fra at man ikke bruger nåle. Samtidig bruger man mundtlige bekræftelser som: ”Selvom jeg bange for at holde tale, så elsker og accepterer jeg mig selv helt og fuldt”.</p><p>&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BEHANDLINGER</a> "
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            }
-          },
+          "_inherit": "dropdown-menu",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-7",
-          "_params": {
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showMeta": false,
-            "darkBackground": false
-          },
-          "title": "<br><div>Her kan du læse lidt om det at være klient?</div>",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Du kan læse om nogle af succéshistorierne og såmænd også om en enketl mislykket behandling. For det er ikke altid at behandlingen er en umiddelbar succes.</p><p><br></p><p>Omkring 90% af mine klienter med fobier, slipper af med dem!&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">KLIENTHISTORIER</a>"
-        },
-        {
-          "_inherit": "dropdown-menu",
           "_styles": {
             ".hide-buttons [data-button]": {
               "display": "none !important"
@@ -129,7 +53,7 @@
           },
           "alias": "dropdown-menu",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-1",
+          "_anchor": "dropdown-menu-2btn-c",
           "_params": {
             "bgColor": "#cccccc",
             "fontSize": 1,
@@ -152,144 +76,8 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Praktiske Forhold.html#msg-box4-p\" aria-expanded=\"false\">HJEM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Praktiske Forhold.html#msg-box3-q\" aria-expanded=\"false\">HVAD ER TFT?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BEHANDLINGER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PRISER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Tilbud</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PRAKTISKE  FORHOLD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Praktiske Forhold.html#msg-box3-f\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>Info &amp; Tilbud</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Praktiske Forhold.html#msg-box3-b\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Klienter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Praktiske Forhold.html#msg-box3-i\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Tidsbestilling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Praktiske Forhold.html#msg-box3-i\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>Spørgsmål</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Praktiske Forhold.html#msg-box3-i\">KONTAKT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-u\" aria-expanded=\"false\">HJEM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-v\" aria-expanded=\"false\">HVAD ER TFT?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BEHANDLINGER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"priser.html\" aria-expanded=\"false\">PRISER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PRAKTISKE  FORHOLD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-w\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>Info &amp; Tilbud</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-11\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Klienter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-x\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Tidsbestilling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-x\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>Spørgsmål</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"index.html#msg-box3-x\">KONTAKT</a></li>"
         },
-        {
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "footer1-0",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#444444",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Hvis du i løbet af den første behandling IKKE kan  mærke nogen forandring, så kan du vælge at stoppe her<br>... og det vil ikke have kostet dig én krone. FØRSTE behandling er med andre ord gratis hvis den ikke virker!<br>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#f97352",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "headerAlign": "left",
-          "title": "DRAG AND DROP WEBSITE BUILDER",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><br></p><p>Jeg er uddannet sygeplejerske og certificeret tankefeltterapeut, og er derfor underlagt loven om tavshedspligt for sundhedspersonale.</p><p>Færdiguddannet i 1978 og har arbejdet indenfor mange specialer og fagområder: Bl.a. kan nævnes arbejdet med mennesker med akutte og kroniske psykiske traumer, neurologi og torturofre.</p><p>Jeg har gennemgået en klinisk efteruddannelse i psykiatri (1989-90), og arbejdede i en årrække på en lukket psykiatrisk afdeling.&nbsp;</p><p>Efter at have været personalechef i en større virksomhed i nogle år, rejste jeg sammen med min famiilie til Spanien, hvor vi boede i 11 år. I den periode blev jeg uddannet som tankefeltterapeut, og arbejdede i egen klinik et par år, indtil vi rejste tilbage til Danmark.&nbsp;</p><p>I Danmark har jeg genoptaget sygeplejefaget (inden for det private erhvervsliv) og fortsætter samtidig mit arbejde som tankefeltterapeut.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-9",
-          "_params": {
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showMeta": true,
-            "darkBackground": false
-          },
-          "title": "PRAKTISKE FORHOLD",
-          "meta": "Her er der forskellige praktiske informationerer.",
-          "text": "<p>Til den første behandling har afsættes der 1½ time, men forinden den første konsultation fremsender jeg et lille spørgeskema, dels for at spare klientens tid, dels for at få nogle grundlæggende oplysninger, som der kan arbejdes videre på baggrund af. Der snakkes også om klientens forventninger til behandlingen.</p><p>Behandlingen starter med en gennemgang af skemaoplysningerne, i den udstrækning det er relevant.</p><p>Herefter påbegyndes behandlingen og denne del tager normalt omkring 50 min.</p><p><br></p><p>&nbsp;hvor henne?</p><p>Behandlinger foregår i Lynge, eller hvis det ønskes hjemme hos dig selv efter nærmere aftale.</p><p><br></p><p>tidsbestilling</p><p>&nbsp;&nbsp;</p><p>Der er flere måder at du kan bestille en tid. Telefonen er den ene og mail er den anden. Ved et telefonopkald kan det ofte være svært at overskue om man nu også kan på den foreslåede tid. Det har derfor vist sig at arrangere en aftale ofte er lettere via email. Men valget er naturligvis helt op til dig.</p><p><br></p><p>Telefonnummer: Danmark: +45 2293 8550</p><p>Spanien: KUN efter særlig aftale</p><p>... eller som sagt, så kan du bare maile mig ved at klikke her: wicki@biohealth.dk</p><p><br></p><p>&nbsp;&nbsp;</p><p>Der er flere måder at du kan bestille en tid. Telefonen er den ene og mail er den anden. Ved et telefonopkald kan det ofte være svært at overskue om man nu også kan på den foreslåede tid. Det har derfor vist sig at arrangere en aftale ofte er lettere via email. Men valget er naturligvis helt op til dig.</p><p><br></p><p><br></p><p>Du er selvfølgelig velkommen til at stille alle de spørgsmål du finder relevante. Du kan gøre det ved at kontakte mig pr. telefon eller pr. email.</p><p><br></p><p>Se hvordan <b>her</b>!</p><p><br></p><p>Jeg kan kontaktes enten via telefon eller email:</p><p>Telefonnummer:</p><p><br></p><p><br></p><p><br></p><p>Danmark: +45 2293 8550</p><p><br></p><p>Spanien: KUN efter særlig aftale</p><p><br></p><p>... eller som sagt, så kan du bare maile mig ved at klikke her: wicki@biohealth.dk</p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        }
-      ]
-    },
-    "Index.html": {
-      "settings": {
-        "title": "BioHealth",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
         {
           "_inherit": "msg-box5",
           "_tags": [
@@ -310,7 +98,7 @@
             }
           },
           "_name": "msg-box4",
-          "_anchor": "msg-box4-p",
+          "_anchor": "msg-box4-u",
           "_params": {
             "imageSize": "34",
             "paddingTop": 3,
@@ -371,7 +159,7 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-q",
+          "_anchor": "msg-box3-v",
           "_params": {
             "showCaption": true,
             "paddingTop": 3,
@@ -412,7 +200,7 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-f",
+          "_anchor": "msg-box3-w",
           "_params": {
             "showCaption": true,
             "paddingTop": "3",
@@ -438,7 +226,7 @@
           "title": "Her er der forskellige praktiske informationerer",
           "meta": "",
           "text": "<p>Til den første behandling har afsættes der 1½ time, men forinden den første konsultation fremsender jeg et lille spørgeskema, dels for at spare klientens tid, dels for at få nogle grundlæggende oplysninger, som der kan arbejdes videre på baggrund af. Der snakkes også om klientens forventninger til behandlingen.</p><p>Behandlingen starter med en gennemgang af skemaoplysningerne, i den udstrækning det er relevant.</p><p>Herefter påbegyndes behandlingen og denne del tager normalt omkring 50 min.</p><p>Du er selvfølgelig velkommen til at stille alle de spørgsmål du finder relevante. Du kan gøre det ved at kontakte mig pr. telefon eller pr. email.</p><p>Se hvordan <a href=\"Praktiske Forhold.html#msg-box3-i\">her</a>!<a href=\"Praktiske Forhold.html#msg-box3-i\"></a><b><a href=\"Praktiske Forhold.html#msg-box3-i\"></a></b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRISER</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TILBUD</a> "
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"priser.html\" data-toolbar=\"-mbrBtnMove\">PRISER</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TILBUD</a> "
         },
         {
           "_styles": {
@@ -453,7 +241,7 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-b",
+          "_anchor": "msg-box3-11",
           "_params": {
             "showCaption": true,
             "paddingTop": "2",
@@ -482,76 +270,6 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>KLIENTHISTORIER</a>"
         },
         {
-          "_inherit": "dropdown-menu",
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#7ac673"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#cccccc"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#c2c2c2"
-            },
-            ".navbar-toggler": {
-              "color": "#7ac673"
-            }
-          },
-          "alias": "dropdown-menu",
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-c",
-          "_params": {
-            "bgColor": "#cccccc",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#7ac673",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Praktiske Forhold.html#msg-box4-p\" aria-expanded=\"false\">HJEM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Praktiske Forhold.html#msg-box3-q\" aria-expanded=\"false\">HVAD ER TFT?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BEHANDLINGER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PRISER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Tilbud</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PRAKTISKE  FORHOLD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Praktiske Forhold.html#msg-box3-f\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>Info &amp; Tilbud</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Praktiske Forhold.html#msg-box3-b\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Klienter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Praktiske Forhold.html#msg-box3-i\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Tidsbestilling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Praktiske Forhold.html#msg-box3-i\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>Spørgsmål</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Praktiske Forhold.html#msg-box3-i\">KONTAKT</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "footer1-d",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#444444",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Hvis du i løbet af den første behandling IKKE kan  mærke nogen forandring, så kan du vælge at stoppe her<br>... og det vil ikke have kostet dig én krone. FØRSTE behandling er med andre ord gratis hvis den ikke virker!<br>"
-        },
-        {
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center"
@@ -567,7 +285,7 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-i",
+          "_anchor": "msg-box3-x",
           "_params": {
             "showCaption": true,
             "paddingTop": "3",
@@ -600,7 +318,7 @@
             "Theme"
           ],
           "_name": "form1",
-          "_anchor": "form1-r",
+          "_anchor": "form1-z",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 3,
@@ -643,6 +361,243 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">KONTAKT</a>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Hvis du i løbet af den første behandling IKKE kan  mærke nogen forandring, så kan du vælge at stoppe her<br>... og det vil ikke have kostet dig én krone. FØRSTE behandling er med andre ord gratis hvis den ikke virker!<br>"
+        }
+      ]
+    },
+    "priser.html": {
+      "settings": {
+        "title": "Priser"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-16",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "green",
+            "showButtons": false,
+            "secondType": "favorite",
+            "thirdType": "blue",
+            "fourthType": "hidden",
+            "fifthType": "hidden"
+          },
+          "title1": "&nbsp;1 Behandling 5 behandlinger",
+          "currency1": "kr.",
+          "price1": "675<br><br>",
+          "period1": "",
+          "list1": "<div style=\"text-align: center;\"><span style=\"line-height: 40px;\"><b>1. behandling, ca. 1½ time.</b></span></div><div style=\"text-align: center;\"><span style=\"line-height: 40px;\"><b>Behandlinger derefter, ca 50 minutters varighed. &nbsp;Kr. 475</b></span></div>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
+          "title2": "5 behandlinger",
+          "currency2": "kr",
+          "price2": "2.300",
+          "period2": "",
+          "list2": "<ul><li><b>Ved samtidig betaling af 5 behandlinger, der skal afvikles inden for 12 mdr.</b></li><li><b><br></b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title3": "Telefonbehandling",
+          "currency3": "kr",
+          "price3": "250",
+          "period3": "&nbsp;½ time",
+          "list3": "<ul><li><b>Telefonbehandling, ca. ½ time</b></li><li><br></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title4": "ULTIMATE",
+          "currency4": "$",
+          "price4": "0",
+          "period4": "per month",
+          "list4": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>1 TB</b> Bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-1a",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3C3C3C",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "BEMÆRK VENLIGST",
+          "text": "-Afbud bedes meldt senest 24 timer før den aftalte tid på telefon: 2293 8550, ellers afregnes fuldt honorar.<br>-Betalte beløb refunderes ikke, med mindre andet er aftalt.<br>-Alle priser er inkl. moms og gældende pr. 1/6 2012.<br>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">START A JOURNEY</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff",
+              "text-align": "left",
+              "font-size": "19px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-19",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3C3C3C",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "PRE MADE BLOCKS",
+          "text": "<br>Omkring 90% af mine klienter med fobier, slipper af med dem! ",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#7ac673"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#cccccc"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#c2c2c2"
+            },
+            ".navbar-toggler": {
+              "color": "#7ac673"
+            }
+          },
+          "alias": "dropdown-menu",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-12",
+          "_params": {
+            "bgColor": "#cccccc",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#7ac673",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-u\" aria-expanded=\"false\">HJEM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-v\" aria-expanded=\"false\">HVAD ER TFT?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BEHANDLINGER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"priser.html\" aria-expanded=\"false\">PRISER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PRAKTISKE  FORHOLD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-w\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>Info &amp; Tilbud</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-11\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Klienter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-x\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Tidsbestilling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-x\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>Spørgsmål</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"index.html#msg-box3-x\">KONTAKT</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-13",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Hvis du i løbet af den første behandling IKKE kan  mærke nogen forandring, så kan du vælge at stoppe her<br>... og det vil ikke have kostet dig én krone. FØRSTE behandling er med andre ord gratis hvis den ikke virker!<br>"
         }
       ]
     }
