@@ -97,3 +97,49 @@
 #footer1-13 P {
   text-align: center;
 }
+#dropdown-menu-2btn-1e .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1e .nav .link,
+#dropdown-menu-2btn-1e .dropdown-item {
+  font-size: 1em;
+  color: #7ac673;
+}
+#dropdown-menu-2btn-1e .navbar,
+#dropdown-menu-2btn-1e .dropdown-menu {
+  background: #cccccc;
+}
+#dropdown-menu-2btn-1e .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1e .dropdown-menu a:hover,
+#dropdown-menu-2btn-1e .dropdown-menu a:focus {
+  background: #c2c2c2;
+}
+#dropdown-menu-2btn-1e .navbar-toggler {
+  color: #7ac673;
+}
+#footer1-1f P {
+  text-align: center;
+}
+#dropdown-menu-2btn-1k .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1k .nav .link,
+#dropdown-menu-2btn-1k .dropdown-item {
+  font-size: 1em;
+  color: #7ac673;
+}
+#dropdown-menu-2btn-1k .navbar,
+#dropdown-menu-2btn-1k .dropdown-menu {
+  background: #cccccc;
+}
+#dropdown-menu-2btn-1k .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1k .dropdown-menu a:hover,
+#dropdown-menu-2btn-1k .dropdown-menu a:focus {
+  background: #c2c2c2;
+}
+#dropdown-menu-2btn-1k .navbar-toggler {
+  color: #7ac673;
+}
+#footer1-1l P {
+  text-align: center;
+}
