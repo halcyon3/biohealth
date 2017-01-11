@@ -39,7 +39,7 @@
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#7ac673"
+              "color": "#27aae0"
             },
             ".navbar, .dropdown-menu": {
               "background": "#cccccc"
@@ -48,7 +48,7 @@
               "background": "#c2c2c2"
             },
             ".navbar-toggler": {
-              "color": "#7ac673"
+              "color": "#27aae0"
             }
           },
           "alias": "dropdown-menu",
@@ -58,7 +58,7 @@
             "bgColor": "#cccccc",
             "fontSize": 1,
             "fontName": {},
-            "fontColor": "#7ac673",
+            "fontColor": "#27aae0",
             "transparent": true,
             "sticky": true,
             "logo": true,
@@ -557,7 +557,7 @@
             "bgColor": "#cccccc",
             "fontSize": 1,
             "fontName": {},
-            "fontColor": "#7ac673",
+            "fontColor": "#27aae0",
             "transparent": true,
             "sticky": true,
             "logo": true,
@@ -637,7 +637,7 @@
             "bgColor": "#cccccc",
             "fontSize": 1,
             "fontName": {},
-            "fontColor": "#7ac673",
+            "fontColor": "#27aae0",
             "transparent": true,
             "sticky": true,
             "logo": true,
@@ -754,7 +754,7 @@
             "bgColor": "#cccccc",
             "fontSize": 1,
             "fontName": {},
-            "fontColor": "#7ac673",
+            "fontColor": "#27aae0",
             "transparent": true,
             "sticky": true,
             "logo": true,
