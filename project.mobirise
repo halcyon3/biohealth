@@ -721,7 +721,7 @@
           "_params": {
             "showMeta": true
           },
-          "meta": "I dag indenfor TANKEFELTTERAPI, er der flere behandlingsretninger:<br><br>-TFT<br>-EFT<br>-Faster EFT<br><br>Jeg anvender en meget effektiv kombination af alle disse.<br><br>Omkring 90% af mine klienter med fobier, slipper af med dem!&nbsp;<br><br>"
+          "meta": "I dag indenfor TANKEFELTTERAPI, er der flere behandlingsretninger:<br><br>-TFT<br>-EFT<br>-Faster EFT<br><br>Jeg anvender en meget effektiv kombination af alle disse.<br><br>Omkring 90% af mine klienter med fobier, slipper af med dem!<br><br>"
         },
         {
           "_inherit": "dropdown-menu",
